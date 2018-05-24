@@ -1,0 +1,16 @@
+Backup das config HSV :
+0
+0
+0
+179
+68
+166
+Corte: 
+300
+Borda:
+0
+0
+0
+168
+255
+121
